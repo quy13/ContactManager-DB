@@ -5,6 +5,6 @@ app này có thể làm:
 
 -thêm, sửa xóa thông tin danh bạ
 
--đém số lượng danh bạ hiện có trong cơ sở dữ liệu và xem với Logcat
+-đếm số lượng danh bạ hiện có trong cơ sở dữ liệu và xem với Logcat
 
 -xem thông tin thông tin danh bạ đã lưu vào với Logcat 
