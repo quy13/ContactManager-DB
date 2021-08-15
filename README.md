@@ -1,4 +1,5 @@
-# ContactManager-DBandListview
+# ContactManager-DB
+
 
 tạo một ứng dụng lưu danh bạ vào máy bao gồm tên và số điện thoại sử dụng cơ sở dữ liệu SQLite theo mô hình MVC 
 app này có thể làm:
